@@ -42,8 +42,8 @@ public class JogoVelha extends Application {
 
     @Override
     public void start(Stage primaryStage) {
-        btnX.setMinSize(35, 35);
-        btn0.setMinSize(35, 35);
+        btnX.setMinSize(45, 45);
+        btn0.setMinSize(45, 45);
 
         btnX.setOnAction(j -> selecionaJogador(j));
         btn0.setOnAction(j -> selecionaJogador(j));
