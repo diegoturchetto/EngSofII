@@ -14,10 +14,6 @@ import javafx.scene.layout.StackPane;
 import javafx.stage.Stage;
 import javafx.scene.layout.*;
 
-/**
- *
- * @author diego e Luciano
- */
 public class JogoVelha extends Application {
 
     private Label lbl1 = new Label("Jogador 1");
